@@ -3,11 +3,11 @@
 
 <p align="center">
   <strong>Advanced Android Pentesting Framework</strong><br>
-  <em>"Intelligence and security, fused in neon." – Mr.X</em>
+  <em>"Intelligence and security, fused in neon." â€“ Mr.X</em>
 </p>
 
 ## Introduction
-AndroHack is an all-in-one Android penetration testing framework built for ethical security testing, vulnerability assessment, and post-exploitation research. With **18 integrated modules** covering static APK analysis, dynamic runtime analysis via ADB, network scanning, vulnerability mapping, exploit assistance, payload generation, and professional report generation. The sleek cyberpunk terminal interface runs smoothly on **Termux (Android)**, Linux, Windows, and Kali Linux—**no root required** (some exploits may require root on target device).
+AndroHack is an all-in-one Android penetration testing framework built for ethical security testing, vulnerability assessment, and post-exploitation research. With **18 integrated modules** covering static APK analysis, dynamic runtime analysis via ADB, network scanning, vulnerability mapping, exploit assistance, payload generation, and professional report generation. The sleek cyberpunk terminal interface runs smoothly on **Termux (Android)**, Linux, Windows, and Kali Linuxâ€”**no root required** (some exploits may require root on target device).
 
 ## Installation
 ```bash
@@ -42,16 +42,16 @@ python3 androhack.py --devices
 > **Note:** Some features require ADB installed and USB Debugging enabled on the target Android device. For advanced payload generation (msfvenom), Metasploit Framework must be installed.
 
 ## Features
-- **Device Manager** – Manage connected Android devices via ADB.
-- **APK Analyzer** – Static analysis and reverse engineering of APK files.
-- **Network Scanner** – Multithreaded port scanning, host discovery, and WiFi info gathering.
-- **Vulnerability Scanner** – Detect CVEs, root status, insecure data storage, exported components, and more.
-- **Exploit Toolkit** – Launch exported activities, trigger broadcasts, deep link fuzzing, Frida injection guides.
-- **Payload Generator** – Generate malicious APKs, reverse shells, intent payloads, and obfuscated commands.
-- **Report Generator** – Export professional HTML, JSON, and table reports.
-- **ADB over WiFi** – Enable and auto-connect ADB wirelessly.
-- **Cyberpunk UI** – Neon colors, animations, and clean menu system.
-- **Cross-Platform** – Works on Termux (Android), Linux, Windows, macOS, and Kali Linux.
+- **Device Manager** â€“ Manage connected Android devices via ADB.
+- **APK Analyzer** â€“ Static analysis and reverse engineering of APK files.
+- **Network Scanner** â€“ Multithreaded port scanning, host discovery, and WiFi info gathering.
+- **Vulnerability Scanner** â€“ Detect CVEs, root status, insecure data storage, exported components, and more.
+- **Exploit Toolkit** â€“ Launch exported activities, trigger broadcasts, deep link fuzzing, Frida injection guides.
+- **Payload Generator** â€“ Generate malicious APKs, reverse shells, intent payloads, and obfuscated commands.
+- **Report Generator** â€“ Export professional HTML, JSON, and table reports.
+- **ADB over WiFi** â€“ Enable and auto-connect ADB wirelessly.
+- **Cyberpunk UI** â€“ Neon colors, animations, and clean menu system.
+- **Cross-Platform** â€“ Works on Termux (Android), Linux, Windows, macOS, and Kali Linux.
 
 ## Modules Overview
 | #  | Module | Description |
@@ -82,9 +82,9 @@ python3 androhack.py --devices
 4. **Connect** your device via USB cable (or use WiFi ADB later).
 5. **Run** `python3 androhack.py` to launch the interactive menu.
 6. **Accept** the legal disclaimer by typing `y`.
-7. **Select a module** by typing its number (1–18) or type `help` for full descriptions and `guide` for a complete usage guide.
-8. **Follow on-screen prompts** – each module will request additional input (device serial, package name, etc.).
-9. **View results** – results are displayed in the terminal and can be exported using the Report Generator.
+7. **Select a module** by typing its number (1â€“18) or type `help` for full descriptions and `guide` for a complete usage guide.
+8. **Follow on-screen prompts** â€“ each module will request additional input (device serial, package name, etc.).
+9. **View results** â€“ results are displayed in the terminal and can be exported using the Report Generator.
 
 ## Observation
 This tool is intended for **educational and ethical hacking purposes only**. Unauthorized scanning, testing, or exploitation of systems you do not own or have explicit written permission to test is **ILLEGAL** and may result in criminal prosecution. The author assumes no responsibility for misuse or damage caused by this tool.
@@ -96,13 +96,13 @@ This tool is intended for **educational and ethical hacking purposes only**. Una
 
 ## CONNECT WITH ME :
 
-[![Website](https://img.shields.io/badge/WEBSITE-VISIT-red?style=for-the-badge&logo=blogger)](https://whomrx.pages.dev)
-[![Blog](https://img.shields.io/badge/BLOG-VISIT-red?style=for-the-badge&logo=blogger)](https://whomrxhackers.blogspot.com)
-[![Twitter](https://img.shields.io/badge/TWITTER-FOLLOW-red?style=for-the-badge&logo=x)](https://twitter.com/whomrx666)
-[![WhatsApp](https://img.shields.io/badge/WHATSAPP-CHATME-red?style=for-the-badge&logo=whatsapp)](https://wa.me/6285926601133?text=Halo%2C%20Mr.X)
-[![Facebook](https://img.shields.io/badge/FACEBOOK-LIKE-red?style=for-the-badge&logo=facebook)](https://www.facebook.com/whomrx.666)
-[![Telegram](https://img.shields.io/badge/TELEGRAM-CONNECT-red?style=for-the-badge&logo=telegram)](https://t.me/Whomr_X)
-[![Gmail](https://img.shields.io/badge/GMAIL-CONTACT-red?style=for-the-badge&logo=gmail)](mailto:whomrx666@gmail.com)
+[![Website](https://img.shields.io/badge/WEBSITE-VISIT-red?style=for-the-badge&logo=googlechrome)](https://whomrx.pages.dev) <br>
+[![Blog](https://img.shields.io/badge/BLOG-VISIT-red?style=for-the-badge&logo=blogger)](https://whomrxhackers.blogspot.com) <br>
+[![Twitter](https://img.shields.io/badge/TWITTER-FOLLOW-red?style=for-the-badge&logo=x)](https://twitter.com/whomrx666) <br>
+[![WhatsApp](https://img.shields.io/badge/WHATSAPP-CHATME-red?style=for-the-badge&logo=whatsapp)](https://wa.me/6285926601133?text=Halo%2C%20Mr.X) <br>
+[![Facebook](https://img.shields.io/badge/FACEBOOK-LIKE-red?style=for-the-badge&logo=facebook)](https://www.facebook.com/whomrx.666) <br>
+[![Telegram](https://img.shields.io/badge/TELEGRAM-CONNECT-red?style=for-the-badge&logo=telegram)](https://t.me/Whomr_X) <br>
+[![Gmail](https://img.shields.io/badge/GMAIL-CONTACT-red?style=for-the-badge&logo=gmail)](mailto:whomrx666@gmail.com) <br>
 [![TikTok](https://img.shields.io/badge/TIKTOK-FOLLOW-red?style=for-the-badge&logo=tiktok)](https://www.tiktok.com/@whomr.x)
 
 **If you want to donate, click on the button**
